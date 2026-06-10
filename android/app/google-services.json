@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265865046211",
+    "project_id": "havadurumu-ce8e5",
+    "storage_bucket": "havadurumu-ce8e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265865046211:android:bc1fe3da6631c6a7ae5a76",
+        "android_client_info": {
+          "package_name": "com.example.weather_favorites"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqGyTPkgyLa7uHTBxvd7e3MTIYIGQ66-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
