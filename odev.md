@@ -1,9 +1,9 @@
 # ÖDEV RAPORU: Hava Durumu Favorileri Uygulaması (Apple UI & Firebase)
 
 ## Öğrenci Bilgileri
-* **Adı Soyadı:** [Adınızı Buraya Yazın]
-* **Öğrenci Numarası:** [Numaranızı Buraya Yazın]
-* **Ders:** Mobil Uygulama Geliştirme / Yazılım Projesi
+* **Adı Soyadı:** Semih Arda ÖNGÜL
+* **Öğrenci Numarası:** 2311505207
+* **Ders:** Mobil Programlama
 
 ---
 
